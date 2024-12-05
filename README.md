@@ -11,4 +11,4 @@ This repository contains all 22 smart contracts developed as part of the **Base 
 - **22 Smart Contracts** showcasing various use cases and implementations.
 
 ## Completion
-I have successfully completed all 13 exercises on **5 December 2024**.
+I completed all 13 exercises on **5 December 2024**. 🚀
